@@ -14,9 +14,9 @@
 * [Meeting 2 Notes](meeting2.md)
 
 ### Next Week Plans
-* Task 1
-* Task 2
-* Task 3
+* SME IPO's(Aditya)
+* HNI Startegy(Aditya)
+* Crypto Discussion(Aditya)
 
 ### Long Term Plans
 * Goal 1
