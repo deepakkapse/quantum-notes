@@ -6,7 +6,7 @@
 | [Long Term Plans](#long-term-plans) | Plans and goals for the future |
 
 ### Resources
-* [Link to resource 1]([link1](https://the-captable.com/))
+* [The Captable](https://the-captable.com/)
 * [Link to resource 2](link2)
 
 ### Meeting Notes
